@@ -1,3 +1,4 @@
+#Collin Dukes
 def main():
     def count_dict(str1):
         #Make the string lowercase
